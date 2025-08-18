@@ -1,10 +1,10 @@
-# Samuel Santos
+# Rafael Borges
 
 **`Estudante de Desenvolvimento de Sistema`**
 
 Texto de apresentação
 <br/>
-Sou um estudante dedicado do 3º ano do Ensino Médio, com conhecimento em desenvolvimento de sistemas. Tenho interesse em aprender novas tecnologias e em evoluir minhas habilidades, tanto técnicas quanto interpessoais. Valorizo o trabalho em equipe e a troca de conhecimento, sempre com o objetivo de crescer pessoal e profissionalmente na área de tecnologia.
+Profissional focado em desenvolvimento web, com habilidades em HTML, CSS, JavaScript e no uso de ferramentas como Figma e VS Code. Experiência em prototipagem e resolução de problemas, aliado a uma postura comprometida, adaptável e colaborativa.
 
 
 ---
@@ -26,6 +26,14 @@ Sou um estudante dedicado do 3º ano do Ensino Médio, com conhecimento em desen
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JS"
+    title="JavaScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
 />
 <img 
     align="left" 
@@ -55,14 +63,14 @@ Sou um estudante dedicado do 3º ano do Ensino Médio, com conhecimento em desen
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=SamuelDsss&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=RafaelBorges7&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="100" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueldsss&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelBorges7&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
