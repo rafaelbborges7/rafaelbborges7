@@ -70,7 +70,7 @@ Profissional focado em desenvolvimento web, com habilidades em HTML, CSS, JavaSc
       align="left" 
       alt="GitHub Stats" 
       height="100" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelbborges&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelbborges7&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
