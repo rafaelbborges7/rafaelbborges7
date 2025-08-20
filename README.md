@@ -2,7 +2,6 @@
 
 **`Estudante de Desenvolvimento de Sistema`**
 
-Texto de apresentação
 <br/>
 Profissional focado em desenvolvimento web, com habilidades em HTML, CSS, JavaScript e no uso de ferramentas como Figma e VS Code. Experiência em prototipagem e resolução de problemas, aliado a uma postura comprometida, adaptável e colaborativa.
 
